@@ -42,12 +42,8 @@ npx hardhat run scripts/bridge.js --network mumbai
 
 # Author
 
-Aaditya Sinha
+Aryan Sharma
 
-[Twitter](https://twitter.com/aaadityasinha)
 
-[Linkedin](https://www.linkedin.com/in/aaditya-sinha-53530723a/)
-
-[Telegram](https://t.me/aaditya_sinha)
 
   
